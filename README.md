@@ -32,7 +32,7 @@ Welcome to the **Estore Web Platform** – a feature-rich online business soluti
 
 ## Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: React js, Redux, Material UI
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (using Mongoose)
 - **Authentication**: JSON Web Tokens (JWT), bcryptjs for password hashing
@@ -60,7 +60,7 @@ To get started with the platform:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/ecommerce-platform.git
-   cd ecommerce-platform
+   cd Estore
    ```
 
 2. **Install Dependencies**:
